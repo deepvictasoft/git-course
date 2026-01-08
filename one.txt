@@ -2,3 +2,5 @@ this is first file
 Add another file or folder to the folder and commit it.
 Add another file or folder to the folder and commit it.
 Add another file or folder to the folder and commit it.
+
+some new text
